@@ -1,6 +1,6 @@
 {
   "name": "violet-say",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Violet Say",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "url": "https://github.com/albertoBetancourt/violet-say/issues"
   },
   "homepage": "https://github.com/albertoBetancourt/violet-say#readme",
-  "bin":{
+  "bin": {
     "violet-say": "./bin/global.js"
   },
   "preferGlobal": true
