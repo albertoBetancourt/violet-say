@@ -12,7 +12,8 @@ const messages = [
 ];
 
 // Aquí coloca tu imagen ASCII. Puedes modificarla según tu diseño.
-const asciiArt = `                                   .::::::::::::::..
+const asciiArt = String.raw`
+                                                    .::::::::::::::..
                                                     :=-:::::----:::::::::...
                                                     .-:::-------=-:::::::::-:::::
                        .:-                   ...... :-==-----------::-----------==
@@ -45,7 +46,8 @@ const asciiArt = `                                   .::::::::::::::..
                  ::::--=+######*+-::::::::::::-=**#######*=:=.
                 .::::--=-+*#####*==----:::----=+*#%%###*+--:::
                 :::::-===-=+*####*+===========++######*--==:-::
-                :::::+===-===+***+*++++==++++**+**+++=--++-:=...`;
+                :::::+===-===+***+*++++==++++**+**+++=--++-:=...
+`;
 
 // Función que crea una burbuja de diálogo estilo cowsay a partir de un texto.
 function createBubble(text) {
