@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/albertoBetancourt/violet-say/issues"
   },
-  "homepage": "https://github.com/albertoBetancourt/violet-say#readme"
+  "homepage": "https://github.com/albertoBetancourt/violet-say#readme",
+  "bin":{
+    "violet-say": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
