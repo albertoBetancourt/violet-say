@@ -1,0 +1,21 @@
+{
+  "name": "violet-say",
+  "version": "1.0.0",
+  "description": "Violet Say",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertoBetancourt/violet-say.git"
+  },
+  "keywords": [],
+  "author": "Carlos Vera <veracar111@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/albertoBetancourt/violet-say/issues"
+  },
+  "homepage": "https://github.com/albertoBetancourt/violet-say#readme"
+}
