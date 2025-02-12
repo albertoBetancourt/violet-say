@@ -1,5 +1,7 @@
 # VioletSay 🐶✨
 
+## 📌 Versión en Español 🇪🇸
+
 **VioletSay** es un paquete de npm inspirado en *cowsay*, pero con un toque personal. En lugar de una vaca, verás una representación en ASCII de Violeta, mi querida mascota, diciendo frases aleatorias llenas de cariño y motivación. 🐕💕
 
 ## 📌 ¿Por qué VioletSay?
@@ -89,3 +91,96 @@ Licencia MIT © 2025 **Carlos Vera**
 
 🐕 *Violeta dice:* "¡Gracias por usar VioletSay! Sigue moviendo la cola y sé increíble." 🐶💕
 
+
+## 📌 English Version 🇬🇧
+
+# VioletSay 🐶✨
+
+**VioletSay** is an npm package inspired by *cowsay*, but with a personal touch! Instead of a cow, you'll see an ASCII representation of Violeta, my beloved pet, saying random affectionate and motivational phrases. 🐕💕
+
+## 📌 Why VioletSay?
+This project was created as a way to practice:
+- JavaScript fundamentals
+- npm package creation and publishing
+- Version control and dependency management
+- ASCII art rendering in the terminal
+
+It is a fun and personal way to explore the npm ecosystem while bringing some joy to your terminal. 😊
+
+---
+
+## 🚀 Installation
+To use *VioletSay*, you need to have **Node.js** and **npm** installed on your system.
+
+### 📌 Installing Node.js and npm on Ubuntu
+If you haven't installed them yet, run the following commands in your terminal:
+
+```sh
+sudo apt update && sudo apt upgrade -y
+sudo apt install nodejs npm -y
+```
+
+Verify the installation with:
+
+```sh
+node -v
+npm -v
+```
+
+If you see the version numbers of Node.js and npm, everything is set up. 🚀
+
+### 📌 Installing VioletSay
+Install the package globally with:
+
+```sh
+npm install -g violet-say
+```
+
+Or run it directly without installation:
+
+```sh
+npx violet-say
+```
+
+---
+
+## 🎉 Usage
+Once installed, simply run:
+
+```sh
+violet-say
+```
+
+Violeta will appear in your terminal with a randomly selected heartwarming message. 🐶💖
+
+> **Note:** *VioletSay* only displays predefined messages and does not allow custom input.
+
+---
+
+## 📝 Example Output
+```
+  ----------------------------
+ | You are my favorite human! |
+  ----------------------------
+            \
+             \
+🐶 (ASCII Art of Violeta)
+```
+
+---
+
+## 🛠 Contributing
+Feel free to fork the repository and improve *VioletSay*! Any suggestions or contributions are welcome.
+
+📌 **GitHub Repository:** [VioletSay on GitHub](https://github.com/albertoBetancourt/violet-say)
+
+If you like it, consider giving it a ⭐ on GitHub!
+
+---
+
+## 📜 License
+MIT License © 2025 **Carlos Vera**
+
+---
+
+🐕 *Violeta says:* "Thank you for using VioletSay! Keep wagging and stay awesome!" 🐶💕
