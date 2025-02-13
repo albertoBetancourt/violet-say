@@ -39,7 +39,7 @@ Si ves los números de versión de Node.js y npm, significa que todo está listo
 Instala el paquete de manera global con:
 
 ```sh
-npm install -g violet-say
+sudo npm install -g violet-say
 ```
 
 O ejecútalo directamente sin instalación con:
@@ -133,7 +133,7 @@ If you see the version numbers of Node.js and npm, everything is set up. 🚀
 Install the package globally with:
 
 ```sh
-npm install -g violet-say
+sudo npm install -g violet-say
 ```
 
 Or run it directly without installation:
