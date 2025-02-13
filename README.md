@@ -2,7 +2,7 @@
 
 ## 📌 Versión en Español 🇪🇸
 
-**VioletSay** es un paquete de npm inspirado en *cowsay*, pero con un toque personal. En lugar de una vaca, verás una representación en ASCII de Violeta, mi querida mascota, diciendo frases aleatorias llenas de cariño y motivación. 🐕💕
+**VioletSay** es un paquete de npm inspirado en *cowsay*, pero con un toque personal. En lugar de una vaca, verás una representación en ASCII de mis queridas perritas, **Violeta** y **Vera**, diciendo frases aleatorias llenas de cariño y motivación. 🐕💕
 
 ## 📌 ¿Por qué VioletSay?
 Este proyecto fue creado como una forma de practicar:
@@ -59,11 +59,19 @@ violet-say
 
 Violeta aparecerá en tu terminal con un mensaje aleatorio lleno de amor. 🐶💖
 
+Si quieres ver a **Vera** en lugar de Violeta, ejecuta:
+
+```sh
+violet-say vera
+```
+
 > **Nota:** *VioletSay* solo muestra frases predefinidas y no permite personalizar el mensaje.
 
 ---
 
 ## 📝 Ejemplo de salida
+
+Ejemplo con **Violeta**:
 ```
   ----------------------------
  | Eres mi humano favorito!  |
@@ -71,6 +79,16 @@ Violeta aparecerá en tu terminal con un mensaje aleatorio lleno de amor. 🐶�
             \
              \
 🐶 (ASCII Art de Violeta)
+```
+
+Ejemplo con **Vera**:
+```
+  ----------------------------
+ | Tu abrazo es mi lugar favorito! |
+  ----------------------------
+            \
+             \
+🐶 (ASCII Art de Vera)
 ```
 
 ---
@@ -89,14 +107,15 @@ Licencia MIT © 2025 **Carlos Vera**
 
 ---
 
-🐕 *Violeta dice:* "¡Gracias por usar VioletSay! Sigue moviendo la cola y sé increíble." 🐶💕
+🐕 *Violeta y Vera dicen:* "¡Gracias por usar VioletSay! Sigue moviendo la cola y sé increíble." 🐶💕
 
+---
 
 ## 📌 English Version 🇬🇧
 
 # VioletSay 🐶✨
 
-**VioletSay** is an npm package inspired by *cowsay*, but with a personal touch! Instead of a cow, you'll see an ASCII representation of Violeta, my beloved pet, saying random affectionate and motivational phrases. 🐕💕
+**VioletSay** is an npm package inspired by *cowsay*, but with a personal touch! Instead of a cow, you'll see an ASCII representation of my beloved dogs, **Violeta** and **Vera**, saying random affectionate and motivational phrases. 🐕💕
 
 ## 📌 Why VioletSay?
 This project was created as a way to practice:
@@ -153,11 +172,19 @@ violet-say
 
 Violeta will appear in your terminal with a randomly selected heartwarming message. 🐶💖
 
+If you want to see **Vera** instead of Violeta, run:
+
+```sh
+violet-say vera
+```
+
 > **Note:** *VioletSay* only displays predefined messages and does not allow custom input.
 
 ---
 
 ## 📝 Example Output
+
+Example with **Violeta**:
 ```
   ----------------------------
  | You are my favorite human! |
@@ -167,10 +194,20 @@ Violeta will appear in your terminal with a randomly selected heartwarming messa
 🐶 (ASCII Art of Violeta)
 ```
 
+Example with **Vera**:
+```
+  ----------------------------
+ | Your hugs are my favorite place! |
+  ----------------------------
+            \
+             \
+🐶 (ASCII Art of Vera)
+```
+
 ---
 
 ## 🛠 Contributing
-Feel free to fork the repository and improve *VioletSay*! Any suggestions or contributions are welcome.
+Feel free to fork the repository and improve *VioletSay*! Any suggestions or contributions are welcome. 
 
 📌 **GitHub Repository:** [VioletSay on GitHub](https://github.com/albertoBetancourt/violet-say)
 
@@ -183,4 +220,4 @@ MIT License © 2025 **Carlos Vera**
 
 ---
 
-🐕 *Violeta says:* "Thank you for using VioletSay! Keep wagging and stay awesome!" 🐶💕
+🐕 *Violeta and Vera say:* "Thank you for using VioletSay! Keep wagging and stay awesome!" 🐶💕
